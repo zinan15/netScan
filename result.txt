@@ -1,0 +1,160 @@
+Host: 172.16.1.108 is up
+Open Ports on 172.16.1.108:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.11 is up
+Open Ports on 172.16.1.11:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.117 is up
+Open Ports on 172.16.1.117:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.12 is up
+Open Ports on 172.16.1.12:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.120 is up
+Open Ports on 172.16.1.120:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.130 is up
+Open Ports on 172.16.1.130:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.136 is up
+Open Ports on 172.16.1.136:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.137 is up
+Open Ports on 172.16.1.137:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.140 is up
+Open Ports on 172.16.1.140:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.148 is up
+Open Ports on 172.16.1.148:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.159 is up
+Open Ports on 172.16.1.159:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.166 is up
+Open Ports on 172.16.1.166:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.167 is up
+Open Ports on 172.16.1.167:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.169 is up
+Open Ports on 172.16.1.169:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.180 is up
+Open Ports on 172.16.1.180:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.182 is up
+Open Ports on 172.16.1.182:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.187 is up
+Open Ports on 172.16.1.187:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.196 is up
+Open Ports on 172.16.1.196:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.2 is up
+Open Ports on 172.16.1.2:
+Port: 80 - State: open
+Port: 443 - State: open
+Host: 172.16.1.211 is up
+Open Ports on 172.16.1.211:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.215 is up
+Open Ports on 172.16.1.215:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.217 is up
+Open Ports on 172.16.1.217:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.22 is up
+Open Ports on 172.16.1.22:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.224 is up
+Open Ports on 172.16.1.224:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.226 is up
+Open Ports on 172.16.1.226:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.232 is up
+Open Ports on 172.16.1.232:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.242 is up
+Open Ports on 172.16.1.242:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.244 is up
+Open Ports on 172.16.1.244:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.252 is up
+Open Ports on 172.16.1.252:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.3 is up
+Open Ports on 172.16.1.3:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.39 is up
+Open Ports on 172.16.1.39:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.42 is up
+Open Ports on 172.16.1.42:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.43 is up
+Open Ports on 172.16.1.43:
+Port: 80 - State: open
+Port: 443 - State: filtered
+Host: 172.16.1.48 is up
+Open Ports on 172.16.1.48:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.49 is up
+Open Ports on 172.16.1.49:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.51 is up
+Open Ports on 172.16.1.51:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.71 is up
+Open Ports on 172.16.1.71:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.74 is up
+Open Ports on 172.16.1.74:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
+Host: 172.16.1.8 is up
+Open Ports on 172.16.1.8:
+Port: 80 - State: closed
+Port: 443 - State: closed
+Host: 172.16.1.97 is up
+Open Ports on 172.16.1.97:
+Port: 80 - State: filtered
+Port: 443 - State: filtered
